@@ -44,4 +44,4 @@ No es necesario que descargues esta aplicación para utilizar GitHub. Simplement
 
 [**LINK DE DESACRGA**](https://desktop.github.com/)
 
-Alexander  G. G .
+
