@@ -49,9 +49,9 @@ function esPar(num) {
    // Tu código:
    var r = (num%2);
    if(r===0){
-      return ('par');
+      return (true);
    }
-   return('impar');
+   return(false);
 }
 
 function esImpar(num) {
@@ -60,9 +60,9 @@ function esImpar(num) {
    // Tu código:
    var r = (num%2);
    if(r != 0){
-      return ('impar');
+      return (true);
    }
-      return ('par');
+      return (false);
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
@@ -74,3 +74,4 @@ module.exports = {
    esPar,
    esImpar,
 };
+
